@@ -1,0 +1,537 @@
+{
+  "default": {
+    "textRunStyle": {
+      "font": {
+        "asciiTheme": "minorHAnsi",
+        "eastAsiaTheme": "minorHAnsi",
+        "hAnsiTheme": "minorHAnsi",
+        "cstheme": "minorBidi"
+      },
+      "size": {
+        "value": 22
+      },
+      "szCs": {
+        "value": 22
+      },
+      "lang": {
+        "value": "fr-FR",
+        "eastAsia": "en-US",
+        "bidi": "ar-SA"
+      }
+    },
+    "paragraphStyle": {
+      "spacing": {
+        "after": 160,
+        "line": 259,
+        "lineRule": "auto"
+      }
+    }
+  },
+  "styles": [
+    {
+      "type": "paragraph",
+      "default": 1,
+      "styleId": "Normal",
+      "name": {
+        "value": "Normal"
+      },
+      "qFormat": "",
+      "rsid": {
+        "value": "007257FC"
+      },
+      "paragraphStyle": {
+        "spacing": {
+          "line": 256,
+          "lineRule": "auto"
+        }
+      }
+    },
+    {
+      "type": "character",
+      "default": 1,
+      "styleId": "Policepardfaut",
+      "name": {
+        "value": "Default Paragraph Font"
+      },
+      "uiPriority": {
+        "value": 1
+      },
+      "semiHidden": "",
+      "unhideWhenUsed": ""
+    },
+    {
+      "type": "table",
+      "default": 1,
+      "styleId": "TableauNormal",
+      "name": {
+        "value": "Normal Table"
+      },
+      "uiPriority": {
+        "value": 99
+      },
+      "semiHidden": "",
+      "unhideWhenUsed": "",
+      "properties": {
+        "tblInd": {
+          "width": 0,
+          "type": "dxa"
+        },
+        "tblCellMar": {
+          "top": {
+            "width": 0,
+            "type": "dxa"
+          },
+          "left": {
+            "width": 108,
+            "type": "dxa"
+          },
+          "bottom": {
+            "width": 0,
+            "type": "dxa"
+          },
+          "right": {
+            "width": 108,
+            "type": "dxa"
+          }
+        }
+      }
+    },
+    {
+      "type": "numbering",
+      "default": 1,
+      "styleId": "Aucuneliste",
+      "name": {
+        "value": "No List"
+      },
+      "uiPriority": {
+        "value": 99
+      },
+      "semiHidden": "",
+      "unhideWhenUsed": ""
+    },
+    {
+      "type": "paragraph",
+      "styleId": "En-tte",
+      "name": {
+        "value": "header"
+      },
+      "basedOn": {
+        "value": "Normal"
+      },
+      "link": {
+        "value": "En-tteCar"
+      },
+      "uiPriority": {
+        "value": 99
+      },
+      "unhideWhenUsed": "",
+      "rsid": {
+        "value": "00D67676"
+      },
+      "paragraphStyle": {
+        "tabs": {
+          "tab": [
+            {
+              "value": "center",
+              "pos": 4536
+            },
+            {
+              "value": "right",
+              "pos": 9072
+            }
+          ]
+        },
+        "spacing": {
+          "after": 0,
+          "line": 240,
+          "lineRule": "auto"
+        }
+      }
+    },
+    {
+      "type": "character",
+      "customStyle": 1,
+      "styleId": "En-tteCar",
+      "name": {
+        "value": "En-tête Car"
+      },
+      "basedOn": {
+        "value": "Policepardfaut"
+      },
+      "link": {
+        "value": "En-tte"
+      },
+      "uiPriority": {
+        "value": 99
+      },
+      "rsid": {
+        "value": "00D67676"
+      }
+    },
+    {
+      "type": "paragraph",
+      "styleId": "Pieddepage",
+      "name": {
+        "value": "footer"
+      },
+      "basedOn": {
+        "value": "Normal"
+      },
+      "link": {
+        "value": "PieddepageCar"
+      },
+      "uiPriority": {
+        "value": 99
+      },
+      "unhideWhenUsed": "",
+      "rsid": {
+        "value": "00D67676"
+      },
+      "paragraphStyle": {
+        "tabs": {
+          "tab": [
+            {
+              "value": "center",
+              "pos": 4536
+            },
+            {
+              "value": "right",
+              "pos": 9072
+            }
+          ]
+        },
+        "spacing": {
+          "after": 0,
+          "line": 240,
+          "lineRule": "auto"
+        }
+      }
+    },
+    {
+      "type": "character",
+      "customStyle": 1,
+      "styleId": "PieddepageCar",
+      "name": {
+        "value": "Pied de page Car"
+      },
+      "basedOn": {
+        "value": "Policepardfaut"
+      },
+      "link": {
+        "value": "Pieddepage"
+      },
+      "uiPriority": {
+        "value": 99
+      },
+      "rsid": {
+        "value": "00D67676"
+      }
+    },
+    {
+      "type": "paragraph",
+      "styleId": "Paragraphedeliste",
+      "name": {
+        "value": "List Paragraph"
+      },
+      "basedOn": {
+        "value": "Normal"
+      },
+      "link": {
+        "value": "ParagraphedelisteCar"
+      },
+      "uiPriority": {
+        "value": 34
+      },
+      "qFormat": "",
+      "rsid": {
+        "value": 512937
+      },
+      "paragraphStyle": {
+        "spacing": {
+          "line": 259,
+          "lineRule": "auto"
+        },
+        "indent": {
+          "left": 720
+        },
+        "contextualSpacing": ""
+      }
+    },
+    {
+      "type": "table",
+      "styleId": "Grilledutableau",
+      "name": {
+        "value": "Table Grid"
+      },
+      "basedOn": {
+        "value": "TableauNormal"
+      },
+      "uiPriority": {
+        "value": 39
+      },
+      "rsid": {
+        "value": 512937
+      },
+      "paragraphStyle": {
+        "spacing": {
+          "after": 0,
+          "line": 240,
+          "lineRule": "auto"
+        }
+      },
+      "properties": {
+        "tblBorders": {
+          "top": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": "auto"
+          },
+          "left": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": "auto"
+          },
+          "bottom": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": "auto"
+          },
+          "right": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": "auto"
+          },
+          "insideH": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": "auto"
+          },
+          "insideV": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": "auto"
+          }
+        }
+      }
+    },
+    {
+      "type": "table",
+      "styleId": "TableauGrille1Clair",
+      "name": {
+        "value": "Grid Table 1 Light"
+      },
+      "basedOn": {
+        "value": "TableauNormal"
+      },
+      "uiPriority": {
+        "value": 46
+      },
+      "rsid": {
+        "value": "000D598B"
+      },
+      "paragraphStyle": {
+        "spacing": {
+          "after": 0,
+          "line": 240,
+          "lineRule": "auto"
+        }
+      },
+      "properties": {
+        "tblStyleRowBandSize": {
+          "value": 1
+        },
+        "tblStyleColBandSize": {
+          "value": 1
+        },
+        "tblBorders": {
+          "top": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": 999999,
+            "themeColor": "text1",
+            "themeTint": 66
+          },
+          "left": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": 999999,
+            "themeColor": "text1",
+            "themeTint": 66
+          },
+          "bottom": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": 999999,
+            "themeColor": "text1",
+            "themeTint": 66
+          },
+          "right": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": 999999,
+            "themeColor": "text1",
+            "themeTint": 66
+          },
+          "insideH": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": 999999,
+            "themeColor": "text1",
+            "themeTint": 66
+          },
+          "insideV": {
+            "value": "single",
+            "size": 4,
+            "space": 0,
+            "color": 999999,
+            "themeColor": "text1",
+            "themeTint": 66
+          }
+        }
+      },
+      "tblStylePr": [
+        {
+          "type": "firstRow",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": ""
+          },
+          "properties": [
+            "",
+            {
+              "tcBorders": {
+                "bottom": {
+                  "value": "single",
+                  "size": 12,
+                  "space": 0,
+                  "color": 666666,
+                  "themeColor": "text1",
+                  "themeTint": 99
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "lastRow",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": ""
+          },
+          "properties": [
+            "",
+            {
+              "tcBorders": {
+                "top": {
+                  "value": "double",
+                  "size": 2,
+                  "space": 0,
+                  "color": 666666,
+                  "themeColor": "text1",
+                  "themeTint": 99
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "firstCol",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": ""
+          }
+        },
+        {
+          "type": "lastCol",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": ""
+          }
+        }
+      ]
+    },
+    {
+      "type": "character",
+      "customStyle": 1,
+      "styleId": "ParagraphedelisteCar",
+      "name": {
+        "value": "Paragraphe de liste Car"
+      },
+      "link": {
+        "value": "Paragraphedeliste"
+      },
+      "uiPriority": {
+        "value": 34
+      },
+      "locked": "",
+      "rsid": {
+        "value": "00820F32"
+      }
+    },
+    {
+      "type": "character",
+      "styleId": "Lienhypertexte",
+      "name": {
+        "value": "Hyperlink"
+      },
+      "basedOn": {
+        "value": "Policepardfaut"
+      },
+      "uiPriority": {
+        "value": 99
+      },
+      "unhideWhenUsed": "",
+      "rsid": {
+        "value": "00820F32"
+      },
+      "textRunStyle": {
+        "color": {
+          "value": "0563C1",
+          "themeColor": "hyperlink"
+        },
+        "underline": {
+          "value": "single"
+        }
+      }
+    },
+    {
+      "type": "character",
+      "styleId": "Mentionnonrsolue",
+      "name": {
+        "value": "Unresolved Mention"
+      },
+      "basedOn": {
+        "value": "Policepardfaut"
+      },
+      "uiPriority": {
+        "value": 99
+      },
+      "semiHidden": "",
+      "unhideWhenUsed": "",
+      "rsid": {
+        "value": "00820F32"
+      },
+      "textRunStyle": {
+        "color": {
+          "value": "605E5C"
+        },
+        "shading": {
+          "value": "clear",
+          "color": "auto",
+          "fill": "E1DFDD"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "content": [
+    {
+      "w14:paraId": "7A96A230",
+      "w14:textId": "6F7EDD79",
+      "rsidR": "008B3CAB",
+      "rsidRPr": "008506C7",
+      "rsidRDefault": "00D67AF5",
+      "rsidP": "009F21AD",
+      "paragraphStyle": {
+        "heading": {
+          "value": "Pieddepage"
+        },
+        "textRunStyle": {
+          "color": {
+            "value": 808080,
+            "themeColor": "background1",
+            "themeShade": 80
+          },
+          "size": {
+            "value": 20
+          },
+          "szCs": {
+            "value": 20
+          }
+        }
+      },
+      "children": [
+        {
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "tab": ""
+        },
+        {
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "tab": ""
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "text": {
+            "_": "Page ",
+            "xml:space": "preserve"
+          }
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": "",
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "fldChar": {
+            "fldCharType": "begin"
+          }
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": "",
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "instrText": "PAGE  \\* Arabic  \\* MERGEFORMAT"
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": "",
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "fldChar": {
+            "fldCharType": "separate"
+          }
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": "",
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "text": "1"
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": "",
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "fldChar": {
+            "fldCharType": "end"
+          }
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "text": {
+            "_": " sur ",
+            "xml:space": "preserve"
+          }
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": "",
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "fldChar": {
+            "fldCharType": "begin"
+          }
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": "",
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "instrText": "NUMPAGES  \\* Arabic  \\* MERGEFORMAT"
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": "",
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "fldChar": {
+            "fldCharType": "separate"
+          }
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": "",
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "text": "2"
+        },
+        {
+          "rsidR": "001246A9",
+          "rsidRPr": "008506C7",
+          "textRunStyle": {
+            "bold": "",
+            "bCs": "",
+            "color": {
+              "value": 808080,
+              "themeColor": "background1",
+              "themeShade": 80
+            },
+            "size": {
+              "value": 20
+            },
+            "szCs": {
+              "value": 20
+            }
+          },
+          "fldChar": {
+            "fldCharType": "end"
+          }
+        }
+      ]
+    }
+  ]
+}

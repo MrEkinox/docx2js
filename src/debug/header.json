@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "w14:paraId": "5DF8281C",
+      "w14:textId": "00343FC3",
+      "rsidR": "001246A9",
+      "rsidRDefault": "001246A9",
+      "paragraphStyle": {
+        "heading": {
+          "value": "En-tte"
+        }
+      }
+    },
+    {
+      "w14:paraId": "33FD0AE3",
+      "w14:textId": "4DF29D69",
+      "rsidR": "001246A9",
+      "rsidRDefault": "001246A9",
+      "paragraphStyle": {
+        "heading": {
+          "value": "En-tte"
+        }
+      }
+    },
+    {
+      "w14:paraId": "62AF3F1D",
+      "w14:textId": "71735FA7",
+      "rsidR": "00D67676",
+      "rsidRDefault": "00D67676",
+      "paragraphStyle": {
+        "heading": {
+          "value": "En-tte"
+        }
+      }
+    }
+  ]
+}

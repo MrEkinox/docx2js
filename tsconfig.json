@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "outDir": "./lib",
+    "declaration": true,
+    "allowJs": true,
+    "types": ["jest"],
+    "esModuleInterop": true
+  },
+  "exclude": ["node_modules", "lib"],
+  "include": ["**/*.ts"]
+}

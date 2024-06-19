@@ -1,0 +1,2385 @@
+{
+  "abstractNum": [
+    {
+      "abstractNumId": 0,
+      "w15:restartNumberingAfterBreak": 0,
+      "nsid": {
+        "value": "05C33E83"
+      },
+      "multiLevelType": {
+        "value": "hybridMultilevel"
+      },
+      "tmpl": {
+        "value": "B71A04EC"
+      },
+      "lvl": [
+        {
+          "ilvl": 0,
+          "tplc": "3B1E61CC",
+          "start": {
+            "value": 6
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "-"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 1494,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Times New Roman",
+              "hAnsi": "Times New Roman",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 1,
+          "tplc": "040C0003",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2214,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 2,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2934,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 3,
+          "tplc": "040C0001",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 3654,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 4,
+          "tplc": "040C0003",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 4374,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 5,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5094,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 6,
+          "tplc": "040C0001",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5814,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 7,
+          "tplc": "040C0003",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 6534,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 8,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 7254,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "abstractNumId": 1,
+      "w15:restartNumberingAfterBreak": 0,
+      "nsid": {
+        "value": "108F01D3"
+      },
+      "multiLevelType": {
+        "value": "hybridMultilevel"
+      },
+      "tmpl": {
+        "value": "454274BA"
+      },
+      "lvl": [
+        {
+          "ilvl": 0,
+          "tplc": "594C343C",
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "-"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 720,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Calibri",
+              "eastAsiaTheme": "minorHAnsi",
+              "hAnsi": "Calibri",
+              "cs": "Calibri",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 1,
+          "tplc": "040C0003",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 1440,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 2,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2160,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 3,
+          "tplc": "040C0001",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2880,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 4,
+          "tplc": "040C0003",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 3600,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 5,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 4320,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 6,
+          "tplc": "040C0001",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5040,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 7,
+          "tplc": "040C0003",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5760,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 8,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 6480,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "abstractNumId": 2,
+      "w15:restartNumberingAfterBreak": 0,
+      "nsid": {
+        "value": "1BB35CC9"
+      },
+      "multiLevelType": {
+        "value": "hybridMultilevel"
+      },
+      "tmpl": {
+        "value": "CFF8E8FA"
+      },
+      "lvl": [
+        {
+          "ilvl": 0,
+          "tplc": "821AA7A6",
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "-"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 720,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Arial",
+              "eastAsia": "Times New Roman",
+              "hAnsi": "Arial",
+              "cs": "Arial",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 1,
+          "tplc": "040C0003",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 1440,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 2,
+          "tplc": "040C0005",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2160,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 3,
+          "tplc": "040C0001",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2880,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 4,
+          "tplc": "040C0003",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 3600,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 5,
+          "tplc": "040C0005",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 4320,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 6,
+          "tplc": "040C0001",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5040,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 7,
+          "tplc": "040C0003",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5760,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 8,
+          "tplc": "040C0005",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 6480,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "abstractNumId": 3,
+      "w15:restartNumberingAfterBreak": 0,
+      "nsid": {
+        "value": "3ACB7E77"
+      },
+      "multiLevelType": {
+        "value": "hybridMultilevel"
+      },
+      "tmpl": {
+        "value": "512EBFAA"
+      },
+      "lvl": [
+        {
+          "ilvl": 0,
+          "tplc": 86084772,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "-"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 720,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Calibri",
+              "hAnsi": "Calibri",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 1,
+          "tplc": "785836EE",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 1440,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 2,
+          "tplc": "A866DDAA",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2160,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 3,
+          "tplc": "85C45924",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2880,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 4,
+          "tplc": "1E7CE43C",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 3600,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 5,
+          "tplc": "83BE8300",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 4320,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 6,
+          "tplc": "FE3E3DAC",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5040,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 7,
+          "tplc": "7614537C",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5760,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 8,
+          "tplc": "17CC41B2",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 6480,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "abstractNumId": 4,
+      "w15:restartNumberingAfterBreak": 0,
+      "nsid": {
+        "value": "3AE522EA"
+      },
+      "multiLevelType": {
+        "value": "hybridMultilevel"
+      },
+      "tmpl": {
+        "value": "4CD87D10"
+      },
+      "lvl": [
+        {
+          "ilvl": 0,
+          "tplc": "5ADAEE94",
+          "start": {
+            "value": 2
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "-"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "tabs": {
+              "tab": {
+                "value": "num",
+                "pos": 720
+              }
+            },
+            "indent": {
+              "left": 720,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Times New Roman",
+              "eastAsia": "Times New Roman",
+              "hAnsi": "Times New Roman",
+              "cs": "Times New Roman",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 1,
+          "tplc": "040C0003",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "tabs": {
+              "tab": {
+                "value": "num",
+                "pos": 1440
+              }
+            },
+            "indent": {
+              "left": 1440,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 2,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "tabs": {
+              "tab": {
+                "value": "num",
+                "pos": 2160
+              }
+            },
+            "indent": {
+              "left": 2160,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 3,
+          "tplc": "040C0001",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "tabs": {
+              "tab": {
+                "value": "num",
+                "pos": 2880
+              }
+            },
+            "indent": {
+              "left": 2880,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 4,
+          "tplc": "040C0003",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "tabs": {
+              "tab": {
+                "value": "num",
+                "pos": 3600
+              }
+            },
+            "indent": {
+              "left": 3600,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 5,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "tabs": {
+              "tab": {
+                "value": "num",
+                "pos": 4320
+              }
+            },
+            "indent": {
+              "left": 4320,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 6,
+          "tplc": "040C0001",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "tabs": {
+              "tab": {
+                "value": "num",
+                "pos": 5040
+              }
+            },
+            "indent": {
+              "left": 5040,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 7,
+          "tplc": "040C0003",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "tabs": {
+              "tab": {
+                "value": "num",
+                "pos": 5760
+              }
+            },
+            "indent": {
+              "left": 5760,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 8,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "tabs": {
+              "tab": {
+                "value": "num",
+                "pos": 6480
+              }
+            },
+            "indent": {
+              "left": 6480,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "abstractNumId": 5,
+      "w15:restartNumberingAfterBreak": 0,
+      "nsid": {
+        "value": "65CE6A13"
+      },
+      "multiLevelType": {
+        "value": "hybridMultilevel"
+      },
+      "tmpl": {
+        "value": 1624954
+      },
+      "lvl": [
+        {
+          "ilvl": 0,
+          "tplc": "70C0145A",
+          "start": {
+            "value": 3
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "-"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 720,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Calibri",
+              "eastAsiaTheme": "minorHAnsi",
+              "hAnsi": "Calibri",
+              "cs": "Calibri",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 1,
+          "tplc": "040C0003",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 1440,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 2,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2160,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 3,
+          "tplc": "040C0001",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2880,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 4,
+          "tplc": "040C0003",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 3600,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 5,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 4320,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 6,
+          "tplc": "040C0001",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5040,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 7,
+          "tplc": "040C0003",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5760,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 8,
+          "tplc": "040C0005",
+          "tentative": 1,
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 6480,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "abstractNumId": 6,
+      "w15:restartNumberingAfterBreak": 0,
+      "nsid": {
+        "value": "744E27FA"
+      },
+      "multiLevelType": {
+        "value": "hybridMultilevel"
+      },
+      "tmpl": {
+        "value": "D5A25E9C"
+      },
+      "lvl": [
+        {
+          "ilvl": 0,
+          "tplc": "821AA7A6",
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "-"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 720,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Arial",
+              "eastAsia": "Times New Roman",
+              "hAnsi": "Arial",
+              "cs": "Arial",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 1,
+          "tplc": "040C0003",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 1440,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 2,
+          "tplc": "040C0005",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2160,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 3,
+          "tplc": "040C0001",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2880,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 4,
+          "tplc": "040C0003",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 3600,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 5,
+          "tplc": "040C0005",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 4320,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 6,
+          "tplc": "040C0001",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5040,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Symbol",
+              "hAnsi": "Symbol",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 7,
+          "tplc": "040C0003",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": "o"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5760,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Courier New",
+              "hAnsi": "Courier New",
+              "cs": "Courier New",
+              "hint": "default"
+            }
+          }
+        },
+        {
+          "ilvl": 8,
+          "tplc": "040C0005",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "bullet"
+          },
+          "text": {
+            "value": ""
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 6480,
+              "hanging": 360
+            }
+          },
+          "textRunStyle": {
+            "font": {
+              "ascii": "Wingdings",
+              "hAnsi": "Wingdings",
+              "hint": "default"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "abstractNumId": 7,
+      "w15:restartNumberingAfterBreak": 0,
+      "nsid": {
+        "value": "7B082E80"
+      },
+      "multiLevelType": {
+        "value": "hybridMultilevel"
+      },
+      "tmpl": {
+        "value": "804C8AEA"
+      },
+      "lvl": [
+        {
+          "ilvl": 0,
+          "tplc": "040C0011",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "decimal"
+          },
+          "text": {
+            "value": "%1)"
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 720,
+              "hanging": 360
+            }
+          }
+        },
+        {
+          "ilvl": 1,
+          "tplc": "040C0019",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "lowerLetter"
+          },
+          "text": {
+            "value": "%2."
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 1440,
+              "hanging": 360
+            }
+          }
+        },
+        {
+          "ilvl": 2,
+          "tplc": "040C001B",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "lowerRoman"
+          },
+          "text": {
+            "value": "%3."
+          },
+          "alignment": {
+            "value": "right"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2160,
+              "hanging": 180
+            }
+          }
+        },
+        {
+          "ilvl": 3,
+          "tplc": "040C000F",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "decimal"
+          },
+          "text": {
+            "value": "%4."
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 2880,
+              "hanging": 360
+            }
+          }
+        },
+        {
+          "ilvl": 4,
+          "tplc": "040C0019",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "lowerLetter"
+          },
+          "text": {
+            "value": "%5."
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 3600,
+              "hanging": 360
+            }
+          }
+        },
+        {
+          "ilvl": 5,
+          "tplc": "040C001B",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "lowerRoman"
+          },
+          "text": {
+            "value": "%6."
+          },
+          "alignment": {
+            "value": "right"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 4320,
+              "hanging": 180
+            }
+          }
+        },
+        {
+          "ilvl": 6,
+          "tplc": "040C000F",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "decimal"
+          },
+          "text": {
+            "value": "%7."
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5040,
+              "hanging": 360
+            }
+          }
+        },
+        {
+          "ilvl": 7,
+          "tplc": "040C0019",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "lowerLetter"
+          },
+          "text": {
+            "value": "%8."
+          },
+          "alignment": {
+            "value": "left"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 5760,
+              "hanging": 360
+            }
+          }
+        },
+        {
+          "ilvl": 8,
+          "tplc": "040C001B",
+          "start": {
+            "value": 1
+          },
+          "format": {
+            "value": "lowerRoman"
+          },
+          "text": {
+            "value": "%9."
+          },
+          "alignment": {
+            "value": "right"
+          },
+          "paragraphStyle": {
+            "indent": {
+              "left": 6480,
+              "hanging": 180
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "num": [
+    {
+      "numId": 1,
+      "w16cid:durableId": 2121104504,
+      "abstractNumId": {
+        "value": 1
+      }
+    },
+    {
+      "numId": 2,
+      "w16cid:durableId": 1061977766,
+      "abstractNumId": {
+        "value": 0
+      }
+    },
+    {
+      "numId": 3,
+      "w16cid:durableId": 1682931042,
+      "abstractNumId": {
+        "value": 5
+      }
+    },
+    {
+      "numId": 4,
+      "w16cid:durableId": 1970621911,
+      "abstractNumId": {
+        "value": 7
+      },
+      "lvlOverride": [
+        {
+          "ilvl": 0,
+          "startOverride": {
+            "value": 1
+          }
+        },
+        {
+          "ilvl": 1,
+          "startOverride": {
+            "value": 1
+          }
+        },
+        {
+          "ilvl": 2,
+          "startOverride": {
+            "value": 1
+          }
+        },
+        {
+          "ilvl": 3,
+          "startOverride": {
+            "value": 1
+          }
+        },
+        {
+          "ilvl": 4,
+          "startOverride": {
+            "value": 1
+          }
+        },
+        {
+          "ilvl": 5,
+          "startOverride": {
+            "value": 1
+          }
+        },
+        {
+          "ilvl": 6,
+          "startOverride": {
+            "value": 1
+          }
+        },
+        {
+          "ilvl": 7,
+          "startOverride": {
+            "value": 1
+          }
+        },
+        {
+          "ilvl": 8,
+          "startOverride": {
+            "value": 1
+          }
+        }
+      ]
+    },
+    {
+      "numId": 5,
+      "w16cid:durableId": 993485282,
+      "abstractNumId": {
+        "value": 2
+      }
+    },
+    {
+      "numId": 6,
+      "w16cid:durableId": 48656172,
+      "abstractNumId": {
+        "value": 6
+      }
+    },
+    {
+      "numId": 7,
+      "w16cid:durableId": 1524858553,
+      "abstractNumId": {
+        "value": 1
+      }
+    },
+    {
+      "numId": 8,
+      "w16cid:durableId": 201523902,
+      "abstractNumId": {
+        "value": 2
+      }
+    },
+    {
+      "numId": 9,
+      "w16cid:durableId": 400297694,
+      "abstractNumId": {
+        "value": 6
+      }
+    },
+    {
+      "numId": 10,
+      "w16cid:durableId": 1779058312,
+      "abstractNumId": {
+        "value": 3
+      }
+    },
+    {
+      "numId": 11,
+      "w16cid:durableId": 1567761625,
+      "abstractNumId": {
+        "value": 4
+      }
+    }
+  ]
+}
